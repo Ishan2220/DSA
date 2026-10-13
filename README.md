@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **9** |
-| Folders with Java solutions | **9/9 (100.0%)** |
-| Folders with a problem README | **9/9** |
-| Linked-list-named folders | **6 (66.7%)** |
-| Array / square-named folders | **3 (33.3%)** |
+| Problem folders tracked | **17** |
+| Folders with Java solutions | **17/17 (100.0%)** |
+| Folders with a problem README | **17/17** |
+| Linked-list-named folders | **8 (47.1%)** |
+| Array / square-named folders | **3 (17.6%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -43,12 +43,20 @@ _Automatically refreshed on pushes to main and once daily._
 |---:|---|---|---|
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list/) | [Open solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) | [Read notes](./19-remove-nth-node-from-end-of-list/README.md) |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists/) | [Open solution](./21-merge-two-sorted-lists/merge-two-sorted-lists.java) | [Read notes](./21-merge-two-sorted-lists/README.md) |
+| 35 | [Search Insert Position](./35-search-insert-position/) | [Open solution](./35-search-insert-position/search-insert-position.java) | [Read notes](./35-search-insert-position/README.md) |
+| 54 | [Spiral Matrix](./54-spiral-matrix/) | [Open solution](./54-spiral-matrix/spiral-matrix.java) | [Read notes](./54-spiral-matrix/README.md) |
+| 136 | [Single Number](./136-single-number/) | [Open solution](./136-single-number/single-number.java) | [Read notes](./136-single-number/README.md) |
+| 141 | [Linked List Cycle](./141-linked-list-cycle/) | [Open solution](./141-linked-list-cycle/linked-list-cycle.java) | [Read notes](./141-linked-list-cycle/README.md) |
 | 142 | [Linked List Cycle Ii](./142-linked-list-cycle-ii/) | [Open solution](./142-linked-list-cycle-ii/linked-list-cycle-ii.java) | [Read notes](./142-linked-list-cycle-ii/README.md) |
+| 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists/) | [Open solution](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) | [Read notes](./160-intersection-of-two-linked-lists/README.md) |
 | 203 | [Remove Linked List Elements](./203-remove-linked-list-elements/) | [Open solution](./203-remove-linked-list-elements/remove-linked-list-elements.java) | [Read notes](./203-remove-linked-list-elements/README.md) |
 | 206 | [Reverse Linked List](./206-reverse-linked-list/) | [Open solution](./206-reverse-linked-list/reverse-linked-list.java) | [Read notes](./206-reverse-linked-list/README.md) |
 | 328 | [Odd Even Linked List](./328-odd-even-linked-list/) | [Open solution](./328-odd-even-linked-list/odd-even-linked-list.java) | [Read notes](./328-odd-even-linked-list/README.md) |
+| 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list/) | [Open solution](./908-middle-of-the-linked-list/middle-of-the-linked-list.java) | [Read notes](./908-middle-of-the-linked-list/README.md) |
+| 2216 | [Delete The Middle Node Of A Linked List](./2216-delete-the-middle-node-of-a-linked-list/) | [Open solution](./2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) | [Read notes](./2216-delete-the-middle-node-of-a-linked-list/README.md) |
 | 2844 | [Sum Of Squares Of Special Elements](./2844-sum-of-squares-of-special-elements/) | [Open solution](./2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.java) | [Read notes](./2844-sum-of-squares-of-special-elements/README.md) |
 | 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
+| 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Open solution](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.java) | [Read notes](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) |
 | 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
 <!-- DSA_AUTO_PROBLEMS_END -->
 
