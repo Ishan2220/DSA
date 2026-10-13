@@ -1,0 +1,100 @@
+name: Update DSA progress dashboard
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recalculate dashboard from repository files
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("README.md")
+          readme = path.read_text(encoding="utf-8")
+          folders = sorted(
+              [p for p in Path(".").iterdir()
+               if p.is_dir() and re.match(r"^\d+-", p.name)],
+              key=lambda p: int(p.name.split("-", 1)[0])
+          )
+          problems = []
+          for folder in folders:
+              number, slug = folder.name.split("-", 1)
+              java = sorted(folder.glob("*.java"))
+              problems.append({
+                  "number": int(number),
+                  "slug": slug,
+                  "folder": folder.name,
+                  "java": java[0].name if java else None,
+                  "notes": (folder / "README.md").exists(),
+              })
+
+          total = len(problems)
+          java_count = sum(p["java"] is not None for p in problems)
+          notes_count = sum(p["notes"] for p in problems)
+          linked = sum("linked-list" in p["slug"] for p in problems)
+          arrays = sum(any(k in p["slug"] for k in ("array", "square")) for p in problems)
+          def pct(n):
+              return f"{100*n/total:.1f}%" if total else "0.0%"
+
+          stats = "\n".join([
+              "<!-- DSA_AUTO_STATS_START -->",
+              "| Metric | Automatically detected status |",
+              "|---|---:|",
+              f"| Problem folders tracked | **{total}** |",
+              f"| Folders with Java solutions | **{java_count}/{total} ({pct(java_count)})** |",
+              f"| Folders with a problem README | **{notes_count}/{total}** |",
+              f"| Linked-list-named folders | **{linked} ({pct(linked)})** |",
+              f"| Array / square-named folders | **{arrays} ({pct(arrays)})** |",
+              "",
+              "_Automatically refreshed on pushes to main and once daily._",
+              "<!-- DSA_AUTO_STATS_END -->",
+          ])
+
+          rows = [
+              "<!-- DSA_AUTO_PROBLEMS_START -->",
+              "| # | Problem | Java solution | Notes |",
+              "|---:|---|---|---|",
+          ]
+          for p in problems:
+              label = p["slug"].replace("-", " ").title()
+              solution = f"[Open solution](./{p['folder']}/{p['java']})" if p["java"] else "_Not added yet_"
+              notes = f"[Read notes](./{p['folder']}/README.md)" if p["notes"] else "—"
+              rows.append(f"| {p['number']} | [{label}](./{p['folder']}/) | {solution} | {notes} |")
+          rows.append("<!-- DSA_AUTO_PROBLEMS_END -->")
+          table = "\n".join(rows)
+
+          def replace_section(text, start, end, replacement):
+              if start not in text or end not in text:
+                  raise SystemExit("Missing markers: " + start)
+              before, rest = text.split(start, 1)
+              _, after = rest.split(end, 1)
+              return before + replacement + after
+
+          readme = replace_section(readme, "<!-- DSA_AUTO_STATS_START -->", "<!-- DSA_AUTO_STATS_END -->", stats)
+          readme = replace_section(readme, "<!-- DSA_AUTO_PROBLEMS_START -->", "<!-- DSA_AUTO_PROBLEMS_END -->", table)
+          path.write_text(readme, encoding="utf-8")
+          print(f"Updated dashboard: {total} problem folders; {java_count} Java solutions.")
+          PY
+      - name: Commit generated changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Dashboard already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh DSA dashboard"
+          git push
