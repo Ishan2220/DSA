@@ -1,4 +1,4 @@
-<!-- DSA dashboard: repository counts are based on tracked folders; badges update from GitHub. -->
+<!-- DSA dashboard: live badges plus automatically generated repository progress. -->
 <div align="center">
 
 # ⚡ DSA | Data Structures & Algorithms
@@ -7,7 +7,7 @@
 
 <a href="https://github.com/Ishan2220/DSA"><img src="https://img.shields.io/github/repo-size/Ishan2220/DSA?style=for-the-badge&label=Repo%20size" alt="Repository size"></a>
 <a href="https://github.com/Ishan2220/DSA/commits/main"><img src="https://img.shields.io/github/last-commit/Ishan2220/DSA?style=for-the-badge&label=Last%20commit" alt="Last commit"></a>
-<a href="https://github.com/Ishan2220/DSA"><img src="https://img.shields.io/github/stars/Ishan2220/DSA?style=for-the-badge&label=Stars" alt="Stars"></a>
+<a href="https://img.shields.io/github/stars/Ishan2220/DSA"><img src="https://img.shields.io/github/stars/Ishan2220/DSA?style=for-the-badge&label=Stars" alt="Stars"></a>
 <a href="https://github.com/Ishan2220"><img src="https://img.shields.io/github/followers/Ishan2220?style=for-the-badge&label=Followers" alt="Followers"></a>
 
 <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -22,104 +22,71 @@
 
 ## 📈 Progress snapshot
 
-| Metric | Current repository status |
+<!-- DSA_AUTO_STATS_START -->
+| Metric | Automatically detected status |
 |---|---:|
-| Problems tracked | **9** |
-| Java solution files | **9** |
-| Folders with a Java solution | **9 / 9 (100%)** |
-| Primary language | **Java** |
-| Most represented topic | **Linked Lists** |
+| Problem folders tracked | **9** |
+| Folders with Java solutions | **9/9 (100.0%)** |
+| Folders with a problem README | **9/9** |
+| Linked-list-named folders | **6 (66.7%)** |
+| Array / square-named folders | **3 (33.3%)** |
 
-> **Accuracy note:** these numbers describe files currently tracked in this repository. They are not a claim about lifetime LeetCode totals or accepted submissions. GitHub badges above update dynamically; the problem list below reflects the repository snapshot when this README was last edited.
+_Automatically refreshed on pushes to main and once daily._
+<!-- DSA_AUTO_STATS_END -->
+
+> Metrics are generated from folders and Java files in this repository, not your lifetime LeetCode total or accepted-submission count.
 
 ## 🧩 Problem tracker
 
-| # | Problem | Topic | Solution |
+<!-- DSA_AUTO_PROBLEMS_START -->
+| # | Problem | Java solution | Notes |
 |---:|---|---|---|
-| 19 | Remove Nth Node From End of List | Linked List · Two Pointers | [Code](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) |
-| 21 | Merge Two Sorted Lists | Linked List · Two Pointers | [Code](./21-merge-two-sorted-lists/merge-two-sorted-lists.java) |
-| 142 | Linked List Cycle II | Linked List · Cycle Detection | [Code](./142-linked-list-cycle-ii/linked-list-cycle-ii.java) |
-| 203 | Remove Linked List Elements | Linked List · Traversal | [Code](./203-remove-linked-list-elements/remove-linked-list-elements.java) |
-| 206 | Reverse Linked List | Linked List · Pointers | [Code](./206-reverse-linked-list/reverse-linked-list.java) |
-| 328 | Odd Even Linked List | Linked List · Pointer Manipulation | [Code](./328-odd-even-linked-list/odd-even-linked-list.java) |
-| 2844 | Sum of Squares of Special Elements | Arrays · Math | [Code](./2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.java) |
-| 3153 | Apply Operations on Array to Maximize Sum of Squares | Arrays · Bit Manipulation | [Code](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) |
-| 4078 | Maximum Alternating Sum of Squares | Arrays · Greedy / Math | [Code](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) |
+| 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list/) | [Open solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) | [Read notes](./19-remove-nth-node-from-end-of-list/README.md) |
+| 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists/) | [Open solution](./21-merge-two-sorted-lists/merge-two-sorted-lists.java) | [Read notes](./21-merge-two-sorted-lists/README.md) |
+| 142 | [Linked List Cycle Ii](./142-linked-list-cycle-ii/) | [Open solution](./142-linked-list-cycle-ii/linked-list-cycle-ii.java) | [Read notes](./142-linked-list-cycle-ii/README.md) |
+| 203 | [Remove Linked List Elements](./203-remove-linked-list-elements/) | [Open solution](./203-remove-linked-list-elements/remove-linked-list-elements.java) | [Read notes](./203-remove-linked-list-elements/README.md) |
+| 206 | [Reverse Linked List](./206-reverse-linked-list/) | [Open solution](./206-reverse-linked-list/reverse-linked-list.java) | [Read notes](./206-reverse-linked-list/README.md) |
+| 328 | [Odd Even Linked List](./328-odd-even-linked-list/) | [Open solution](./328-odd-even-linked-list/odd-even-linked-list.java) | [Read notes](./328-odd-even-linked-list/README.md) |
+| 2844 | [Sum Of Squares Of Special Elements](./2844-sum-of-squares-of-special-elements/) | [Open solution](./2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.java) | [Read notes](./2844-sum-of-squares-of-special-elements/README.md) |
+| 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
+| 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
+<!-- DSA_AUTO_PROBLEMS_END -->
 
 ## 🧭 Topic roadmap
 
-Progress here is based on the **9 problems currently listed**, grouped by their primary topic. Problems can involve more than one concept.
+The dashboard automatically counts problem folders by name for the topic groups above. For more accurate concept-level progress, tag problems by topic in each folder's README.
 
-| Topic | Problems in tracker | Share |
-|---|---:|---:|
-| Linked Lists | 6 | 66.7% |
-| Arrays / Math | 3 | 33.3% |
-| Trees | 0 | 0% |
-| Stacks & Queues | 0 | 0% |
-| Hashing | 0 | 0% |
-| Graphs | 0 | 0% |
-| Dynamic Programming | 0 | 0% |
+- **Arrays & Strings:** frequency counting, two pointers, prefix sums, sliding window.
+- **Hashing:** HashMap, HashSet, duplicates, pair-sum problems.
+- **Stacks & Queues:** valid parentheses, monotonic stack, queue implementations.
+- **Binary Search & Sorting:** search boundaries, sorting trade-offs.
+- **Trees & BSTs:** traversals, height, recursion, validation.
+- **Recursion & Backtracking:** subsets, permutations, combinations.
+- **Heaps & Greedy:** top-K, priority queues, interval scheduling.
+- **Graphs:** BFS, DFS, connected components, shortest paths.
+- **Dynamic Programming:** memoization, tabulation, 1D and 2D DP.
 
-<details>
-<summary><strong>📌 Suggested next topics</strong></summary>
+## 🛠️ My problem-solving checklist
 
-1. **Arrays & Strings:** frequency counting, two pointers, prefix sums, sliding window.
-2. **Hashing:** HashMap, HashSet, duplicates, pair-sum problems.
-3. **Stacks & Queues:** valid parentheses, monotonic stack, queue implementations.
-4. **Binary Search & Sorting:** search boundaries, lower/upper bound, sorting trade-offs.
-5. **Trees & BSTs:** traversals, height, recursion, validation.
-6. **Recursion & Backtracking:** subsets, permutations, combination problems.
-7. **Heaps & Greedy:** top-K, priority queues, interval scheduling.
-8. **Graphs:** BFS, DFS, connected components, shortest paths.
-9. **Dynamic Programming:** memoization, tabulation, 1D and 2D DP.
-
-</details>
-
-## 🛠️ How I approach a problem
-
-- [ ] Understand the problem and constraints before coding.
-- [ ] Start with a straightforward approach.
-- [ ] Improve time and space complexity where possible.
-- [ ] Test edge cases: empty input, one element, duplicates, and boundaries.
-- [ ] Record the key idea and complexity in the problem notes.
-- [ ] Revisit difficult problems after a few days.
-
-## 📚 Repository structure
-
-Each problem has its own folder, typically containing a Java solution and a problem README.
-
-```text
-DSA/
-├── 19-remove-nth-node-from-end-of-list/
-├── 21-merge-two-sorted-lists/
-├── 142-linked-list-cycle-ii/
-├── 203-remove-linked-list-elements/
-├── 206-reverse-linked-list/
-├── 328-odd-even-linked-list/
-├── 2844-sum-of-squares-of-special-elements/
-├── 3153-apply-operations-on-array-to-maximize-sum-of-squares/
-├── 4078-maximum-alternating-sum-of-squares/
-└── README.md
-```
+- [ ] Understand the problem and constraints.
+- [ ] Start with a straightforward solution.
+- [ ] Optimize time and space complexity.
+- [ ] Test edge cases and boundary conditions.
+- [ ] Document the key idea and complexity.
+- [ ] Revisit challenging problems later.
 
 ## 📊 Live GitHub activity
 
 <div align="center">
 
-<a href="https://github.com/Ishan2220">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishan2220&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics">
-</a>
-<a href="https://github.com/Ishan2220">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan2220&layout=compact&hide_border=true" alt="Most used languages on GitHub">
-</a>
+<a href="https://github.com/Ishan2220"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Ishan2220&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics"></a>
+<a href="https://github.com/Ishan2220"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan2220&layout=compact&hide_border=true" alt="Most used languages on GitHub"></a>
 
-<a href="https://github.com/Ishan2220">
-  <img src="https://streak-stats.demolab.com?user=Ishan2220&hide_border=true" alt="GitHub contribution streak">
-</a>
+<a href="https://github.com/Ishan2220"><img src="https://streak-stats.demolab.com?user=Ishan2220&hide_border=true" alt="GitHub contribution streak"></a>
 
 </div>
 
-<sub>Stats images are served by third-party services and may be delayed, unavailable, or calculated differently from GitHub's own UI. Repository-specific counts above are intentionally kept transparent.</sub>
+<sub>Third-party stats widgets may be delayed or temporarily unavailable. Repository problem counts are generated by this repository's own GitHub Actions workflow.</sub>
 
 ---
 
