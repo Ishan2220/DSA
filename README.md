@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **19** |
-| Folders with Java solutions | **19/19 (100.0%)** |
-| Folders with a problem README | **19/19** |
-| Linked-list-named folders | **8 (42.1%)** |
-| Array / square-named folders | **5 (26.3%)** |
+| Problem folders tracked | **20** |
+| Folders with Java solutions | **20/20 (100.0%)** |
+| Folders with a problem README | **20/20** |
+| Linked-list-named folders | **8 (40.0%)** |
+| Array / square-named folders | **5 (25.0%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -41,6 +41,7 @@ _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_PROBLEMS_START -->
 | # | Problem | Java solution | Notes |
 |---:|---|---|---|
+| 2 | [Add Two Numbers](./2-add-two-numbers/) | [Open solution](./2-add-two-numbers/add-two-numbers.java) | [Read notes](./2-add-two-numbers/README.md) |
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list/) | [Open solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) | [Read notes](./19-remove-nth-node-from-end-of-list/README.md) |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists/) | [Open solution](./21-merge-two-sorted-lists/merge-two-sorted-lists.java) | [Read notes](./21-merge-two-sorted-lists/README.md) |
 | 35 | [Search Insert Position](./35-search-insert-position/) | [Open solution](./35-search-insert-position/search-insert-position.java) | [Read notes](./35-search-insert-position/README.md) |
