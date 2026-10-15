@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **18** |
-| Folders with Java solutions | **18/18 (100.0%)** |
-| Folders with a problem README | **18/18** |
-| Linked-list-named folders | **8 (44.4%)** |
-| Array / square-named folders | **4 (22.2%)** |
+| Problem folders tracked | **19** |
+| Folders with Java solutions | **19/19 (100.0%)** |
+| Folders with a problem README | **19/19** |
+| Linked-list-named folders | **8 (42.1%)** |
+| Array / square-named folders | **5 (26.3%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -56,6 +56,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 2216 | [Delete The Middle Node Of A Linked List](./2216-delete-the-middle-node-of-a-linked-list/) | [Open solution](./2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) | [Read notes](./2216-delete-the-middle-node-of-a-linked-list/README.md) |
 | 2844 | [Sum Of Squares Of Special Elements](./2844-sum-of-squares-of-special-elements/) | [Open solution](./2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.java) | [Read notes](./2844-sum-of-squares-of-special-elements/README.md) |
 | 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
+| 3163 | [Subarrays Distinct Element Sum Of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i/) | [Open solution](./3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) | [Read notes](./3163-subarrays-distinct-element-sum-of-squares-i/README.md) |
 | 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Open solution](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.java) | [Read notes](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) |
 | 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
 | 4084 | [Maximize Sum Of Squares Of Digits](./4084-maximize-sum-of-squares-of-digits/) | [Open solution](./4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) | [Read notes](./4084-maximize-sum-of-squares-of-digits/README.md) |
