@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **21** |
-| Folders with Java solutions | **21/21 (100.0%)** |
-| Folders with a problem README | **21/21** |
-| Linked-list-named folders | **8 (38.1%)** |
-| Array / square-named folders | **6 (28.6%)** |
+| Problem folders tracked | **22** |
+| Folders with Java solutions | **22/22 (100.0%)** |
+| Folders with a problem README | **22/22** |
+| Linked-list-named folders | **8 (36.4%)** |
+| Array / square-named folders | **6 (27.3%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -47,6 +47,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 35 | [Search Insert Position](./35-search-insert-position/) | [Open solution](./35-search-insert-position/search-insert-position.java) | [Read notes](./35-search-insert-position/README.md) |
 | 53 | [Maximum Subarray](./53-maximum-subarray/) | [Open solution](./53-maximum-subarray/maximum-subarray.java) | [Read notes](./53-maximum-subarray/README.md) |
 | 54 | [Spiral Matrix](./54-spiral-matrix/) | [Open solution](./54-spiral-matrix/spiral-matrix.java) | [Read notes](./54-spiral-matrix/README.md) |
+| 66 | [Plus One](./66-plus-one/) | [Open solution](./66-plus-one/plus-one.java) | [Read notes](./66-plus-one/README.md) |
 | 136 | [Single Number](./136-single-number/) | [Open solution](./136-single-number/single-number.java) | [Read notes](./136-single-number/README.md) |
 | 141 | [Linked List Cycle](./141-linked-list-cycle/) | [Open solution](./141-linked-list-cycle/linked-list-cycle.java) | [Read notes](./141-linked-list-cycle/README.md) |
 | 142 | [Linked List Cycle Ii](./142-linked-list-cycle-ii/) | [Open solution](./142-linked-list-cycle-ii/linked-list-cycle-ii.java) | [Read notes](./142-linked-list-cycle-ii/README.md) |
