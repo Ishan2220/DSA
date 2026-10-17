@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **23** |
-| Folders with Java solutions | **23/23 (100.0%)** |
-| Folders with a problem README | **23/23** |
-| Linked-list-named folders | **8 (34.8%)** |
-| Array / square-named folders | **7 (30.4%)** |
+| Problem folders tracked | **24** |
+| Folders with Java solutions | **24/24 (100.0%)** |
+| Folders with a problem README | **24/24** |
+| Linked-list-named folders | **8 (33.3%)** |
+| Array / square-named folders | **7 (29.2%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -62,6 +62,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
 | 3163 | [Subarrays Distinct Element Sum Of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i/) | [Open solution](./3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) | [Read notes](./3163-subarrays-distinct-element-sum-of-squares-i/README.md) |
 | 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Open solution](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.java) | [Read notes](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) |
+| 3847 | [Minimum Swaps To Sort By Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum/) | [Open solution](./3847-minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.java) | [Read notes](./3847-minimum-swaps-to-sort-by-digit-sum/README.md) |
 | 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
 | 4084 | [Maximize Sum Of Squares Of Digits](./4084-maximize-sum-of-squares-of-digits/) | [Open solution](./4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) | [Read notes](./4084-maximize-sum-of-squares-of-digits/README.md) |
 <!-- DSA_AUTO_PROBLEMS_END -->
