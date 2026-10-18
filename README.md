@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **24** |
-| Folders with Java solutions | **24/24 (100.0%)** |
-| Folders with a problem README | **24/24** |
-| Linked-list-named folders | **8 (33.3%)** |
-| Array / square-named folders | **7 (29.2%)** |
+| Problem folders tracked | **25** |
+| Folders with Java solutions | **25/25 (100.0%)** |
+| Folders with a problem README | **25/25** |
+| Linked-list-named folders | **8 (32.0%)** |
+| Array / square-named folders | **7 (28.0%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -43,6 +43,7 @@ _Automatically refreshed on pushes to main and once daily._
 |---:|---|---|---|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | [Open solution](./2-add-two-numbers/add-two-numbers.java) | [Read notes](./2-add-two-numbers/README.md) |
 | 19 | [Remove Nth Node From End Of List](./19-remove-nth-node-from-end-of-list/) | [Open solution](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) | [Read notes](./19-remove-nth-node-from-end-of-list/README.md) |
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | [Open solution](./20-valid-parentheses/valid-parentheses.java) | [Read notes](./20-valid-parentheses/README.md) |
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists/) | [Open solution](./21-merge-two-sorted-lists/merge-two-sorted-lists.java) | [Read notes](./21-merge-two-sorted-lists/README.md) |
 | 35 | [Search Insert Position](./35-search-insert-position/) | [Open solution](./35-search-insert-position/search-insert-position.java) | [Read notes](./35-search-insert-position/README.md) |
 | 53 | [Maximum Subarray](./53-maximum-subarray/) | [Open solution](./53-maximum-subarray/maximum-subarray.java) | [Read notes](./53-maximum-subarray/README.md) |
