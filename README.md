@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **27** |
-| Folders with Java solutions | **27/27 (100.0%)** |
-| Folders with a problem README | **27/27** |
-| Linked-list-named folders | **8 (29.6%)** |
-| Array / square-named folders | **9 (33.3%)** |
+| Problem folders tracked | **28** |
+| Folders with Java solutions | **28/28 (100.0%)** |
+| Folders with a problem README | **28/28** |
+| Linked-list-named folders | **8 (28.6%)** |
+| Array / square-named folders | **9 (32.1%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -49,6 +49,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 53 | [Maximum Subarray](./53-maximum-subarray/) | [Open solution](./53-maximum-subarray/maximum-subarray.java) | [Read notes](./53-maximum-subarray/README.md) |
 | 54 | [Spiral Matrix](./54-spiral-matrix/) | [Open solution](./54-spiral-matrix/spiral-matrix.java) | [Read notes](./54-spiral-matrix/README.md) |
 | 66 | [Plus One](./66-plus-one/) | [Open solution](./66-plus-one/plus-one.java) | [Read notes](./66-plus-one/README.md) |
+| 84 | [Largest Rectangle In Histogram](./84-largest-rectangle-in-histogram/) | [Open solution](./84-largest-rectangle-in-histogram/largest-rectangle-in-histogram.java) | [Read notes](./84-largest-rectangle-in-histogram/README.md) |
 | 88 | [Merge Sorted Array](./88-merge-sorted-array/) | [Open solution](./88-merge-sorted-array/merge-sorted-array.java) | [Read notes](./88-merge-sorted-array/README.md) |
 | 136 | [Single Number](./136-single-number/) | [Open solution](./136-single-number/single-number.java) | [Read notes](./136-single-number/README.md) |
 | 141 | [Linked List Cycle](./141-linked-list-cycle/) | [Open solution](./141-linked-list-cycle/linked-list-cycle.java) | [Read notes](./141-linked-list-cycle/README.md) |
