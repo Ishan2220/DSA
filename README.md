@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **26** |
-| Folders with Java solutions | **26/26 (100.0%)** |
-| Folders with a problem README | **26/26** |
-| Linked-list-named folders | **8 (30.8%)** |
-| Array / square-named folders | **8 (30.8%)** |
+| Problem folders tracked | **27** |
+| Folders with Java solutions | **27/27 (100.0%)** |
+| Folders with a problem README | **27/27** |
+| Linked-list-named folders | **8 (29.6%)** |
+| Array / square-named folders | **9 (33.3%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -59,6 +59,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 328 | [Odd Even Linked List](./328-odd-even-linked-list/) | [Open solution](./328-odd-even-linked-list/odd-even-linked-list.java) | [Read notes](./328-odd-even-linked-list/README.md) |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list/) | [Open solution](./908-middle-of-the-linked-list/middle-of-the-linked-list.java) | [Read notes](./908-middle-of-the-linked-list/README.md) |
 | 1692 | [Number Of Ways To Reorder Array To Get Same Bst](./1692-number-of-ways-to-reorder-array-to-get-same-bst/) | [Open solution](./1692-number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.java) | [Read notes](./1692-number-of-ways-to-reorder-array-to-get-same-bst/README.md) |
+| 2210 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | [Open solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.java) | [Read notes](./2210-find-target-indices-after-sorting-array/README.md) |
 | 2216 | [Delete The Middle Node Of A Linked List](./2216-delete-the-middle-node-of-a-linked-list/) | [Open solution](./2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) | [Read notes](./2216-delete-the-middle-node-of-a-linked-list/README.md) |
 | 2844 | [Sum Of Squares Of Special Elements](./2844-sum-of-squares-of-special-elements/) | [Open solution](./2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.java) | [Read notes](./2844-sum-of-squares-of-special-elements/README.md) |
 | 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
