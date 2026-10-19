@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **28** |
-| Folders with Java solutions | **28/28 (100.0%)** |
-| Folders with a problem README | **28/28** |
-| Linked-list-named folders | **8 (28.6%)** |
-| Array / square-named folders | **9 (32.1%)** |
+| Problem folders tracked | **29** |
+| Folders with Java solutions | **29/29 (100.0%)** |
+| Folders with a problem README | **29/29** |
+| Linked-list-named folders | **8 (27.6%)** |
+| Array / square-named folders | **9 (31.0%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -54,6 +54,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 136 | [Single Number](./136-single-number/) | [Open solution](./136-single-number/single-number.java) | [Read notes](./136-single-number/README.md) |
 | 141 | [Linked List Cycle](./141-linked-list-cycle/) | [Open solution](./141-linked-list-cycle/linked-list-cycle.java) | [Read notes](./141-linked-list-cycle/README.md) |
 | 142 | [Linked List Cycle Ii](./142-linked-list-cycle-ii/) | [Open solution](./142-linked-list-cycle-ii/linked-list-cycle-ii.java) | [Read notes](./142-linked-list-cycle-ii/README.md) |
+| 155 | [Min Stack](./155-min-stack/) | [Open solution](./155-min-stack/min-stack.java) | [Read notes](./155-min-stack/README.md) |
 | 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists/) | [Open solution](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) | [Read notes](./160-intersection-of-two-linked-lists/README.md) |
 | 203 | [Remove Linked List Elements](./203-remove-linked-list-elements/) | [Open solution](./203-remove-linked-list-elements/remove-linked-list-elements.java) | [Read notes](./203-remove-linked-list-elements/README.md) |
 | 206 | [Reverse Linked List](./206-reverse-linked-list/) | [Open solution](./206-reverse-linked-list/reverse-linked-list.java) | [Read notes](./206-reverse-linked-list/README.md) |
