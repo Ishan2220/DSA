@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **29** |
-| Folders with Java solutions | **29/29 (100.0%)** |
-| Folders with a problem README | **29/29** |
-| Linked-list-named folders | **8 (27.6%)** |
-| Array / square-named folders | **9 (31.0%)** |
+| Problem folders tracked | **30** |
+| Folders with Java solutions | **30/30 (100.0%)** |
+| Folders with a problem README | **30/30** |
+| Linked-list-named folders | **8 (26.7%)** |
+| Array / square-named folders | **9 (30.0%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -70,6 +70,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 3847 | [Minimum Swaps To Sort By Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum/) | [Open solution](./3847-minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.java) | [Read notes](./3847-minimum-swaps-to-sort-by-digit-sum/README.md) |
 | 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
 | 4084 | [Maximize Sum Of Squares Of Digits](./4084-maximize-sum-of-squares-of-digits/) | [Open solution](./4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) | [Read notes](./4084-maximize-sum-of-squares-of-digits/README.md) |
+| 4257 | [Sum Of Sortable Integers](./4257-sum-of-sortable-integers/) | [Open solution](./4257-sum-of-sortable-integers/sum-of-sortable-integers.java) | [Read notes](./4257-sum-of-sortable-integers/README.md) |
 <!-- DSA_AUTO_PROBLEMS_END -->
 
 ## 🧭 Topic roadmap
