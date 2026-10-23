@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **32** |
-| Folders with Java solutions | **32/32 (100.0%)** |
-| Folders with a problem README | **32/32** |
-| Linked-list-named folders | **8 (25.0%)** |
-| Array / square-named folders | **9 (28.1%)** |
+| Problem folders tracked | **33** |
+| Folders with Java solutions | **33/33 (100.0%)** |
+| Folders with a problem README | **33/33** |
+| Linked-list-named folders | **8 (24.2%)** |
+| Array / square-named folders | **9 (27.3%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -68,6 +68,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 3163 | [Subarrays Distinct Element Sum Of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i/) | [Open solution](./3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) | [Read notes](./3163-subarrays-distinct-element-sum-of-squares-i/README.md) |
 | 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Open solution](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.java) | [Read notes](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) |
 | 3847 | [Minimum Swaps To Sort By Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum/) | [Open solution](./3847-minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.java) | [Read notes](./3847-minimum-swaps-to-sort-by-digit-sum/README.md) |
+| 3950 | [Maximum K To Sort A Permutation](./3950-maximum-k-to-sort-a-permutation/) | [Open solution](./3950-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.java) | [Read notes](./3950-maximum-k-to-sort-a-permutation/README.md) |
 | 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
 | 4084 | [Maximize Sum Of Squares Of Digits](./4084-maximize-sum-of-squares-of-digits/) | [Open solution](./4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) | [Read notes](./4084-maximize-sum-of-squares-of-digits/README.md) |
 | 4184 | [Minimum Operations To Sort A Permutation](./4184-minimum-operations-to-sort-a-permutation/) | [Open solution](./4184-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.java) | [Read notes](./4184-minimum-operations-to-sort-a-permutation/README.md) |
