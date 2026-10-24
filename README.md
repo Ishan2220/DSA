@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **34** |
-| Folders with Java solutions | **34/34 (100.0%)** |
-| Folders with a problem README | **34/34** |
-| Linked-list-named folders | **8 (23.5%)** |
-| Array / square-named folders | **9 (26.5%)** |
+| Problem folders tracked | **35** |
+| Folders with Java solutions | **35/35 (100.0%)** |
+| Folders with a problem README | **35/35** |
+| Linked-list-named folders | **8 (22.9%)** |
+| Array / square-named folders | **9 (25.7%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -58,6 +58,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 160 | [Intersection Of Two Linked Lists](./160-intersection-of-two-linked-lists/) | [Open solution](./160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java) | [Read notes](./160-intersection-of-two-linked-lists/README.md) |
 | 203 | [Remove Linked List Elements](./203-remove-linked-list-elements/) | [Open solution](./203-remove-linked-list-elements/remove-linked-list-elements.java) | [Read notes](./203-remove-linked-list-elements/README.md) |
 | 206 | [Reverse Linked List](./206-reverse-linked-list/) | [Open solution](./206-reverse-linked-list/reverse-linked-list.java) | [Read notes](./206-reverse-linked-list/README.md) |
+| 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | [Open solution](./239-sliding-window-maximum/sliding-window-maximum.java) | [Read notes](./239-sliding-window-maximum/README.md) |
 | 328 | [Odd Even Linked List](./328-odd-even-linked-list/) | [Open solution](./328-odd-even-linked-list/odd-even-linked-list.java) | [Read notes](./328-odd-even-linked-list/README.md) |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list/) | [Open solution](./908-middle-of-the-linked-list/middle-of-the-linked-list.java) | [Read notes](./908-middle-of-the-linked-list/README.md) |
 | 1692 | [Number Of Ways To Reorder Array To Get Same Bst](./1692-number-of-ways-to-reorder-array-to-get-same-bst/) | [Open solution](./1692-number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.java) | [Read notes](./1692-number-of-ways-to-reorder-array-to-get-same-bst/README.md) |
