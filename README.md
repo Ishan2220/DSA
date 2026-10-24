@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **33** |
-| Folders with Java solutions | **33/33 (100.0%)** |
-| Folders with a problem README | **33/33** |
-| Linked-list-named folders | **8 (24.2%)** |
-| Array / square-named folders | **9 (27.3%)** |
+| Problem folders tracked | **34** |
+| Folders with Java solutions | **34/34 (100.0%)** |
+| Folders with a problem README | **34/34** |
+| Linked-list-named folders | **8 (23.5%)** |
+| Array / square-named folders | **9 (26.5%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -63,6 +63,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 1692 | [Number Of Ways To Reorder Array To Get Same Bst](./1692-number-of-ways-to-reorder-array-to-get-same-bst/) | [Open solution](./1692-number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.java) | [Read notes](./1692-number-of-ways-to-reorder-array-to-get-same-bst/README.md) |
 | 2210 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | [Open solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.java) | [Read notes](./2210-find-target-indices-after-sorting-array/README.md) |
 | 2216 | [Delete The Middle Node Of A Linked List](./2216-delete-the-middle-node-of-a-linked-list/) | [Open solution](./2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) | [Read notes](./2216-delete-the-middle-node-of-a-linked-list/README.md) |
+| 2496 | [Count Days Spent Together](./2496-count-days-spent-together/) | [Open solution](./2496-count-days-spent-together/count-days-spent-together.java) | [Read notes](./2496-count-days-spent-together/README.md) |
 | 2844 | [Sum Of Squares Of Special Elements](./2844-sum-of-squares-of-special-elements/) | [Open solution](./2844-sum-of-squares-of-special-elements/sum-of-squares-of-special-elements.java) | [Read notes](./2844-sum-of-squares-of-special-elements/README.md) |
 | 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
 | 3163 | [Subarrays Distinct Element Sum Of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i/) | [Open solution](./3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) | [Read notes](./3163-subarrays-distinct-element-sum-of-squares-i/README.md) |
