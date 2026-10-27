@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **36** |
-| Folders with Java solutions | **36/36 (100.0%)** |
-| Folders with a problem README | **36/36** |
-| Linked-list-named folders | **8 (22.2%)** |
-| Array / square-named folders | **9 (25.0%)** |
+| Problem folders tracked | **37** |
+| Folders with Java solutions | **37/37 (100.0%)** |
+| Folders with a problem README | **37/37** |
+| Linked-list-named folders | **8 (21.6%)** |
+| Array / square-named folders | **9 (24.3%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -70,6 +70,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 3153 | [Apply Operations On Array To Maximize Sum Of Squares](./3153-apply-operations-on-array-to-maximize-sum-of-squares/) | [Open solution](./3153-apply-operations-on-array-to-maximize-sum-of-squares/apply-operations-on-array-to-maximize-sum-of-squares.java) | [Read notes](./3153-apply-operations-on-array-to-maximize-sum-of-squares/README.md) |
 | 3163 | [Subarrays Distinct Element Sum Of Squares I](./3163-subarrays-distinct-element-sum-of-squares-i/) | [Open solution](./3163-subarrays-distinct-element-sum-of-squares-i/subarrays-distinct-element-sum-of-squares-i.java) | [Read notes](./3163-subarrays-distinct-element-sum-of-squares-i/README.md) |
 | 3236 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Open solution](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/smallest-missing-integer-greater-than-sequential-prefix-sum.java) | [Read notes](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) |
+| 3823 | [Count Islands With Total Value Divisible By K](./3823-count-islands-with-total-value-divisible-by-k/) | [Open solution](./3823-count-islands-with-total-value-divisible-by-k/count-islands-with-total-value-divisible-by-k.java) | [Read notes](./3823-count-islands-with-total-value-divisible-by-k/README.md) |
 | 3847 | [Minimum Swaps To Sort By Digit Sum](./3847-minimum-swaps-to-sort-by-digit-sum/) | [Open solution](./3847-minimum-swaps-to-sort-by-digit-sum/minimum-swaps-to-sort-by-digit-sum.java) | [Read notes](./3847-minimum-swaps-to-sort-by-digit-sum/README.md) |
 | 3950 | [Maximum K To Sort A Permutation](./3950-maximum-k-to-sort-a-permutation/) | [Open solution](./3950-maximum-k-to-sort-a-permutation/maximum-k-to-sort-a-permutation.java) | [Read notes](./3950-maximum-k-to-sort-a-permutation/README.md) |
 | 4078 | [Maximum Alternating Sum Of Squares](./4078-maximum-alternating-sum-of-squares/) | [Open solution](./4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.java) | [Read notes](./4078-maximum-alternating-sum-of-squares/README.md) |
