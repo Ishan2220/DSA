@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **37** |
-| Folders with Java solutions | **37/37 (100.0%)** |
-| Folders with a problem README | **37/37** |
-| Linked-list-named folders | **8 (21.6%)** |
-| Array / square-named folders | **9 (24.3%)** |
+| Problem folders tracked | **38** |
+| Folders with Java solutions | **38/38 (100.0%)** |
+| Folders with a problem README | **38/38** |
+| Linked-list-named folders | **8 (21.1%)** |
+| Array / square-named folders | **9 (23.7%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -78,6 +78,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 4184 | [Minimum Operations To Sort A Permutation](./4184-minimum-operations-to-sort-a-permutation/) | [Open solution](./4184-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.java) | [Read notes](./4184-minimum-operations-to-sort-a-permutation/README.md) |
 | 4220 | [Minimum Operations To Sort A String](./4220-minimum-operations-to-sort-a-string/) | [Open solution](./4220-minimum-operations-to-sort-a-string/minimum-operations-to-sort-a-string.java) | [Read notes](./4220-minimum-operations-to-sort-a-string/README.md) |
 | 4257 | [Sum Of Sortable Integers](./4257-sum-of-sortable-integers/) | [Open solution](./4257-sum-of-sortable-integers/sum-of-sortable-integers.java) | [Read notes](./4257-sum-of-sortable-integers/README.md) |
+| 4342 | [Create Grid With Exactly One Path](./4342-create-grid-with-exactly-one-path/) | [Open solution](./4342-create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.java) | [Read notes](./4342-create-grid-with-exactly-one-path/README.md) |
 <!-- DSA_AUTO_PROBLEMS_END -->
 
 ## 🧭 Topic roadmap
