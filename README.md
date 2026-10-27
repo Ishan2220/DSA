@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **35** |
-| Folders with Java solutions | **35/35 (100.0%)** |
-| Folders with a problem README | **35/35** |
-| Linked-list-named folders | **8 (22.9%)** |
-| Array / square-named folders | **9 (25.7%)** |
+| Problem folders tracked | **36** |
+| Folders with Java solutions | **36/36 (100.0%)** |
+| Folders with a problem README | **36/36** |
+| Linked-list-named folders | **8 (22.2%)** |
+| Array / square-named folders | **9 (25.0%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -61,6 +61,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 239 | [Sliding Window Maximum](./239-sliding-window-maximum/) | [Open solution](./239-sliding-window-maximum/sliding-window-maximum.java) | [Read notes](./239-sliding-window-maximum/README.md) |
 | 328 | [Odd Even Linked List](./328-odd-even-linked-list/) | [Open solution](./328-odd-even-linked-list/odd-even-linked-list.java) | [Read notes](./328-odd-even-linked-list/README.md) |
 | 908 | [Middle Of The Linked List](./908-middle-of-the-linked-list/) | [Open solution](./908-middle-of-the-linked-list/middle-of-the-linked-list.java) | [Read notes](./908-middle-of-the-linked-list/README.md) |
+| 1380 | [Number Of Closed Islands](./1380-number-of-closed-islands/) | [Open solution](./1380-number-of-closed-islands/number-of-closed-islands.java) | [Read notes](./1380-number-of-closed-islands/README.md) |
 | 1692 | [Number Of Ways To Reorder Array To Get Same Bst](./1692-number-of-ways-to-reorder-array-to-get-same-bst/) | [Open solution](./1692-number-of-ways-to-reorder-array-to-get-same-bst/number-of-ways-to-reorder-array-to-get-same-bst.java) | [Read notes](./1692-number-of-ways-to-reorder-array-to-get-same-bst/README.md) |
 | 2210 | [Find Target Indices After Sorting Array](./2210-find-target-indices-after-sorting-array/) | [Open solution](./2210-find-target-indices-after-sorting-array/find-target-indices-after-sorting-array.java) | [Read notes](./2210-find-target-indices-after-sorting-array/README.md) |
 | 2216 | [Delete The Middle Node Of A Linked List](./2216-delete-the-middle-node-of-a-linked-list/) | [Open solution](./2216-delete-the-middle-node-of-a-linked-list/delete-the-middle-node-of-a-linked-list.java) | [Read notes](./2216-delete-the-middle-node-of-a-linked-list/README.md) |
