@@ -25,11 +25,11 @@
 <!-- DSA_AUTO_STATS_START -->
 | Metric | Automatically detected status |
 |---|---:|
-| Problem folders tracked | **39** |
-| Folders with Java solutions | **39/39 (100.0%)** |
-| Folders with a problem README | **39/39** |
-| Linked-list-named folders | **8 (20.5%)** |
-| Array / square-named folders | **9 (23.1%)** |
+| Problem folders tracked | **40** |
+| Folders with Java solutions | **40/40 (100.0%)** |
+| Folders with a problem README | **40/40** |
+| Linked-list-named folders | **8 (20.0%)** |
+| Array / square-named folders | **9 (22.5%)** |
 
 _Automatically refreshed on pushes to main and once daily._
 <!-- DSA_AUTO_STATS_END -->
@@ -77,6 +77,7 @@ _Automatically refreshed on pushes to main and once daily._
 | 4084 | [Maximize Sum Of Squares Of Digits](./4084-maximize-sum-of-squares-of-digits/) | [Open solution](./4084-maximize-sum-of-squares-of-digits/maximize-sum-of-squares-of-digits.java) | [Read notes](./4084-maximize-sum-of-squares-of-digits/README.md) |
 | 4184 | [Minimum Operations To Sort A Permutation](./4184-minimum-operations-to-sort-a-permutation/) | [Open solution](./4184-minimum-operations-to-sort-a-permutation/minimum-operations-to-sort-a-permutation.java) | [Read notes](./4184-minimum-operations-to-sort-a-permutation/README.md) |
 | 4205 | [Minimum Xor Path In A Grid](./4205-minimum-xor-path-in-a-grid/) | [Open solution](./4205-minimum-xor-path-in-a-grid/minimum-xor-path-in-a-grid.java) | [Read notes](./4205-minimum-xor-path-in-a-grid/README.md) |
+| 4209 | [Palindromic Path Queries In A Tree](./4209-palindromic-path-queries-in-a-tree/) | [Open solution](./4209-palindromic-path-queries-in-a-tree/palindromic-path-queries-in-a-tree.java) | [Read notes](./4209-palindromic-path-queries-in-a-tree/README.md) |
 | 4220 | [Minimum Operations To Sort A String](./4220-minimum-operations-to-sort-a-string/) | [Open solution](./4220-minimum-operations-to-sort-a-string/minimum-operations-to-sort-a-string.java) | [Read notes](./4220-minimum-operations-to-sort-a-string/README.md) |
 | 4257 | [Sum Of Sortable Integers](./4257-sum-of-sortable-integers/) | [Open solution](./4257-sum-of-sortable-integers/sum-of-sortable-integers.java) | [Read notes](./4257-sum-of-sortable-integers/README.md) |
 | 4342 | [Create Grid With Exactly One Path](./4342-create-grid-with-exactly-one-path/) | [Open solution](./4342-create-grid-with-exactly-one-path/create-grid-with-exactly-one-path.java) | [Read notes](./4342-create-grid-with-exactly-one-path/README.md) |
